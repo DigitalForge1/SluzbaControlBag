@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\obj",
+    "\\obj\\Release\\ProfileTransformWebConfig",
+    "\\obj\\Release\\TransformWebConfig",
+    "\\obj\\Release\\TransformWebConfig\\assist",
+    "\\obj\\Release\\TransformWebConfig\\original",
+    "\\obj\\Release\\TransformWebConfig\\transformed",
+    "\\Properties",
+    "\\Properties\\PublishProfiles"
+  ],
+  "PreviewInSolutionExplorer": false
+}
